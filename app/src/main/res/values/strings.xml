@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Propinas</string>
+    <string name="calculate_tip">Calculadora de Propinas</string>
+    <string name="bill_amount">Monto a ingresar</string>
+    <string name="how_was_the_service">Porcentaje de propina</string>
+    <string name="round_up_tip">Redondear propina</string>
+    <string name="tip_amount">Total de Propina: %s</string>
+</resources>
